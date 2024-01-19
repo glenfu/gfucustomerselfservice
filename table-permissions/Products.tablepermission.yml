@@ -1,0 +1,12 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: product
+adx_entityname: Products
+adx_entitypermission_webrole:
+- a1d31e30-2c94-ee11-be37-002248113623
+adx_entitypermissionid: ef73bd25-2c94-ee11-be37-002248933f51
+adx_read: true
+adx_scope: 756150000
+adx_write: false
